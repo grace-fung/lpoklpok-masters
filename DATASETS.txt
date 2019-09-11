@@ -1,0 +1,6 @@
+The dataset that we are using encompasses information about the restaurant menus around the New York area. This includes information like the amount of times a food is written on a menu and how many pages a menu length is. I've noticed that coffee and tea are one of the most popular items on the menu and they are beverages so that makes a lot of sense. Drinks and snacks tend to be included the most since they are typically ordered by each person. 
+
+id	name	venue	place	event	physical_description	occasion	call_number	keywords	language	date	location	location_type	notes	currency	currency_symbol	sponsor	status	page_count	dish_count
+12463		COMMERCIAL	HOT SPRINGS, AR	BREAKFAST	CARD; 4.75X7.5;	EASTER;	1900-2822			1900-04-15T00:00:00	Hotel Eastman					HOTEL EASTMAN	complete	2	67
+12464		COMMERCIAL	MILWAUKEE, [WI];	[DINNER]	CARD; ILLUS; COL; 7.0X9.0;	EASTER;	1900-2825			1900-04-15T00:00:00	Republican House		WEDGEWOOD BLUE CARD; WHITE EMBOSSED GREEK KEY BORDER; "EASTER SUNDAY" EMBOSSED IN WHITE; VIOLET COLORED SPRAY OF FLOWERS IN UPPER LEFT CORNER;			REPUBLICAN HOUSE	complete	2	34
+12465		COMMERCIAL	DAMPFER KAISER WILHELM DER GROSSE;	FRUHSTUCK/BREAKFAST;	CARD; ILLU; COL; 5.5X8.0;		1900-2827			1900-04-16T00:00:00	Norddeutscher Lloyd Bremen		MENU IN GERMAN AND ENGLISH; ILLUS, STEAMSHIP AND SAILING VESSEL;			NORDDEUTSCHER LLOYD BREMEN	complete	2	84
