@@ -1,6 +1,7 @@
 The data described shows the pay difference between males and females. It shows the portion of males/females over 16 years of age that work full time for the past 12 months.
 Each file that we will be using focuses on a different ethnicity. First file we have does not filter for ethnicity and is of the general population. Then we have one for Asians, Blacks, and Whites.
-We hope to reveal the disparities in earnings between males and females, and also for people of different ethnicities.
+We hope to reveal the disparities in earnings between males and females, and also for people of different ethnicities. Since there appears to be a relationship that males earn more money than females. We also hope to use the margin of errors to show that there can be large variances
+in the amount of money males and females make. Through comparing these files we will be able to see the relationship between ethnicities compared to the general population and to each other since they all have the similar information collected about them.
 
 Sex by work experience in the past 12 months by earnings in the past 12 months for the population 16 years and over
 Note: it was difficult copying the titles of each field so only the first five are listed.
