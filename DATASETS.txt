@@ -1,6 +1,30 @@
-The dataset that we are using encompasses information about the restaurant menus around the New York area. This includes information like the amount of times a food is written on a menu and how many pages a menu length is. I've noticed that coffee and tea are one of the most popular items on the menu and they are beverages so that makes a lot of sense. Drinks and snacks tend to be included the most since they are typically ordered by each person. 
+The dataset that we are using encompasses information that the New York Public Library has of restaurant menus.
+This includes information like the amount of times a food is written on a menu and how many pages a menu length is.
+We hope to gain insights about associations between menus and the food on the menus. For an example if the location of the dish has any coorelation on the price.  
+We've noticed that coffee and tea are one of the most popular items on the menu and they are beverages so that makes a lot of sense, 
+since drinks and snacks tend to be included the most since they are typically ordered by each person.
+The files are related because they include positioning and width of the menus. This allows us to see how menus are different and alike. 
 
+New York Public Library Menus - Dishes
+id	name	description	menus_appeared	times_appeared	first_appeared	last_appeared	lowest_price	highest_price
+1	Consomme printaniere royal		8	8	1897	1927	0.2	0.4
+2	Chicken gumbo		111	117	1895	1960	0.1	0.8
+3	Tomato aux croutons		13	13	1893	1917	0.25	0.4
+
+New York Public Library Menus - Menu
 id	name	venue	place	event	physical_description	occasion	call_number	keywords	language	date	location	location_type	notes	currency	currency_symbol	sponsor	status	page_count	dish_count
-12463		COMMERCIAL	HOT SPRINGS, AR	BREAKFAST	CARD; 4.75X7.5;	EASTER;	1900-2822			1900-04-15T00:00:00	Hotel Eastman					HOTEL EASTMAN	complete	2	67
-12464		COMMERCIAL	MILWAUKEE, [WI];	[DINNER]	CARD; ILLUS; COL; 7.0X9.0;	EASTER;	1900-2825			1900-04-15T00:00:00	Republican House		WEDGEWOOD BLUE CARD; WHITE EMBOSSED GREEK KEY BORDER; "EASTER SUNDAY" EMBOSSED IN WHITE; VIOLET COLORED SPRAY OF FLOWERS IN UPPER LEFT CORNER;			REPUBLICAN HOUSE	complete	2	34
-12465		COMMERCIAL	DAMPFER KAISER WILHELM DER GROSSE;	FRUHSTUCK/BREAKFAST;	CARD; ILLU; COL; 5.5X8.0;		1900-2827			1900-04-16T00:00:00	Norddeutscher Lloyd Bremen		MENU IN GERMAN AND ENGLISH; ILLUS, STEAMSHIP AND SAILING VESSEL;			NORDDEUTSCHER LLOYD BREMEN	complete	2	84
+12463		COMMERCIAL	HOT SPRINGS, AR	BREAKFAST		CARD; 4.75X7.5;	EASTER;	1900-2822			1900-04-15T00:00:00	Hotel Eastman					HOTEL EASTMAN	complete	2	67
+12464		COMMERCIAL	MILWAUKEE, [WI];	[DINNER]	CARD; ILLUS; COL; 7.0X9.0;	EASTER;	1900-2825	1900-04-15T00:00:00	Republican House		WEDGEWOOD BLUE CARD; WHITE EMBOSSED GREEK KEY BORDER; "EASTER SUNDAY" EMBOSSED IN WHITE; VIOLET COLORED SPRAY OF FLOWERS IN UPPER LEFT CORNER;			REPUBLICAN HOUSE	complete	2	34
+12465		COMMERCIAL	DAMPFER KAISER WILHELM DER GROSSE;	FRUHSTUCK/BREAKFAST;	CARD; ILLU; COL; 5.5X8.0;	1900-2827			1900-04-16T00:00:00	Norddeutscher Lloyd Bremen		MENU IN GERMAN AND ENGLISH; ILLUS, STEAMSHIP AND SAILING VESSEL;			NORDDEUTSCHER LLOYD BREMEN	complete	2	84
+
+New York Public Library Menus - Menu Items
+id	menu_page_id	price	high_price	dish_id	created_at	updated_at			xpos		ypos
+1	1389	0.4		1	2011-03-28T15:00:44+00:00	2011-04-19T04:33:15+00:00	0.111429	0.254735	0
+2	1389	0.6		2	2011-03-28T15:01:13+00:00	2011-04-19T15:00:54+00:00	0.438571	0.254735	1
+3	1389	0.4		3	2011-03-28T15:01:40+00:00	2011-04-19T19:10:05+00:00	0.14		0.261922	2
+
+New York Public Library Menus - Menu Items
+id	menu_id	page_number	image_id	full_height	full_width	uuid
+119	12460	1	1603595	7230	5428	510d47e4-2955-a3d9-e040-e00a18064a99
+120	12460	2	1603596	5428	7230	510d47e4-2956-a3d9-e040-e00a18064a99
+121	12460	3	1603597	7230	5428	510d47e4-2957-a3d9-e040-e00a18064a99
