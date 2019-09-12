@@ -1,10 +1,12 @@
-The data describes shows the pay difference between males and females. It shows the protion of males/females over 16 years of age that work full time for the past 12 months.
+The data described shows the pay difference between males and females. It shows the portion of males/females over 16 years of age that work full time for the past 12 months.
 Each file that we will be using focuses on a different ethnicity. First file we have does not filter for ethnicity and is of the general population. Then we have one for Asians, Blacks, and Whites.
 We hope to reveal the disparities in earnings between males and females, and also for people of different ethnicities.
 
 Sex by work experience in the past 12 months by earnings in the past 12 months for the population 16 years and over
+Note: it was difficult copying the titles of each field so only the first five are listed.
 https://public.enigma.com/datasets/sex-by-work-experience-in-the-past-12-months-by-earnings-in-the-past-12-months-for-the-population-16-years-and-over/3a76190f-4a5d-4e10-ac1b-3876639d4050
-				
+					Total	Margin of Error	Male	Margin of Error for Male  Worked Full-time	Margin of Error for Worked full-time
+	
 					3658	284	1877	156	1010	139	0	11	1010	139	0	11	0	11	0	11	18	21	0	11	7	11	8	14	8	12	37	42	0	11	96	53	156	62	55	35	87	49	77	46	83	54	112	49	89	54	42	32	135	53	867	146	494	113	373	85	68	56	30	26	13	19	27	25	25	20	45	35	11	19	5	10	16	19	10	15	0	11	29	26	6	10	16	19	32	27	10	15	13	15	0	11	0	11	17	19	1781	172	532	100	0	11	532	100	0	11	9	14	0	11	6	10	9	15	0	11	24	24	10	15	25	29	27	25	59	40	83	47	18	24	56	32	40	30	60	42	21	22	9	14	48	40	28	25	1249	162	628	120	621	121	147	70	83	46	40	29	67	41	42	28	37	31	39	32	21	23	29	28	8	13	50	34	11	16	0	11	0	11	27	40	0	11	0	11	8	13	0	11	12	17	1	0
 					3853	260	1764	160	863	129	0	11	863	129	0	11	17	28	0	11	0	11	0	11	0	11	23	38	52	43	69	66	0	11	81	62	149	98	43	41	79	50	58	48	43	41	80	56	91	88	17	29	61	54	901	149	598	135	303	124	51	50	55	54	3	7	27	32	19	29	40	48	17	27	0	11	10	18	0	11	0	11	13	22	18	28	20	34	17	28	13	20	0	11	0	11	0	11	0	11	2089	197	729	136	0	11	729	136	18	29	0	11	0	11	0	11	30	35	19	31	36	48	87	57	26	43	34	39	128	74	76	57	59	55	46	66	95	86	0	11	62	55	0	11	0	11	13	25	1360	216	931	186	429	156	75	69	25	37	35	41	24	38	77	62	20	33	30	34	29	33	29	46	19	31	0	11	21	30	33	42	0	11	0	11	12	20	0	11	0	11	0	11	0	11	2	1
 					4266	251	2067	178	1308	158	0	16	1308	158	23	37	0	16	24	38	0	16	39	35	45	48	10	17	1	5	25	32	0	16	106	62	102	56	282	135	108	66	106	75	184	93	93	56	99	86	16	28	45	54	759	176	493	158	266	105	40	43	29	30	26	30	7	13	7	12	0	16	46	43	0	16	11	18	0	16	62	60	22	36	0	16	0	16	0	16	0	16	0	16	16	23	0	16	0	16	2199	188	743	172	0	16	743	172	0	16	0	16	15	26	7	13	17	27	0	16	48	37	28	33	35	37	26	36	93	64	140	85	95	63	48	44	88	76	42	36	35	44	0	16	12	19	14	21	1456	186	961	186	495	116	109	65	30	34	121	66	26	29	62	46	31	34	42	43	16	26	16	25	0	16	24	27	18	27	0	16	0	16	0	16	0	16	0	16	0	16	0	16	0	16	3	2
